@@ -1,4 +1,7 @@
+# Data Compression Coursework
+In this coursework, we script the LZ77, bytewise LZ77 and LZSS compression algorithms in python, and use it to compress/decompress a given file.
 
+## Usage
 To use the compressors:
 
 - You must have python in your path.
